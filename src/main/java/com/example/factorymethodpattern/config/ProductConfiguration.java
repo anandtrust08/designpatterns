@@ -1,7 +1,7 @@
-package com.example.springcheck.config;
+package com.example.factorymethodpattern.config;
 
-import com.example.springcheck.model.impl.ProductA;
-import com.example.springcheck.model.impl.ProductB;
+import com.example.factorymethodpattern.model.impl.ProductA;
+import com.example.factorymethodpattern.model.impl.ProductB;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

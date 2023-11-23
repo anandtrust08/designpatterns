@@ -1,6 +1,6 @@
-package com.example.springcheck.controller;
+package com.example.factorymethodpattern.controller;
 
-import com.example.springcheck.service.TestService;
+import com.example.factorymethodpattern.service.TestService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

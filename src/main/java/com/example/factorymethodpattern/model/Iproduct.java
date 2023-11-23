@@ -1,4 +1,4 @@
-package com.example.springcheck.model;
+package com.example.factorymethodpattern.model;
 
 public interface Iproduct {
     String value() ;

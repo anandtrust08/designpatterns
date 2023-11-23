@@ -1,9 +1,9 @@
-package com.example.springcheck.factory.impl;
+package com.example.factorymethodpattern.factory.impl;
 
-import com.example.springcheck.factory.IProductGeneratorFactory;
-import com.example.springcheck.model.Iproduct;
-import com.example.springcheck.model.impl.ProductA;
-import com.example.springcheck.model.impl.ProductB;
+import com.example.factorymethodpattern.factory.IProductGeneratorFactory;
+import com.example.factorymethodpattern.model.Iproduct;
+import com.example.factorymethodpattern.model.impl.ProductA;
+import com.example.factorymethodpattern.model.impl.ProductB;
 
 public class CreateProductFactory implements IProductGeneratorFactory {
     @Override
